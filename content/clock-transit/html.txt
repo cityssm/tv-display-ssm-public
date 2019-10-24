@@ -1,0 +1,12 @@
+<article data-js="clock-transit.min.js" data-css="clock-transit.min.css">
+  <div>
+    <p>
+      The current time is<br />
+      <span class="clock-time"></span>
+    </p>
+    <p>
+      The next departure is<br />
+      <span class="clock-departure"></span>
+    </p>
+  </div>
+</article>
