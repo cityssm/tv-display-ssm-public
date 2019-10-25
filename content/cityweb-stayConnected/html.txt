@@ -1,0 +1,12 @@
+<article data-js="cityweb-stayConnected.min.js" data-css="cityweb-stayConnected.min.css">
+  <p>
+    <img class="social-icon animated pulse delay-1s" data-src="facebook.png" alt="" />
+    <img class="social-icon animated pulse delay-2s" data-src="twitter.png" alt="" />
+    <img class="social-icon animated pulse delay-3s" data-src="youtube.png" alt="" />
+    <img class="social-icon animated pulse delay-4s" data-src="instagram.png" alt="" />
+    <img class="social-icon animated pulse delay-5s" data-src="linkedin.png" alt="" />
+  </p>
+  <p>
+    SaultSteMarie.ca/StayConnected
+  </p>
+</article>
