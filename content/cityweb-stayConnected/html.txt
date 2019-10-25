@@ -5,8 +5,7 @@
     <img class="social-icon animated pulse delay-3s" data-src="youtube.png" alt="" />
     <img class="social-icon animated pulse delay-4s" data-src="instagram.png" alt="" />
     <img class="social-icon animated pulse delay-5s" data-src="linkedin.png" alt="" />
-  </p>
-  <p>
+    <br/>
     SaultSteMarie.ca/StayConnected
   </p>
 </article>
