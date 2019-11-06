@@ -1,4 +1,4 @@
-<article data-js="cityweb-stayConnected.min.js" data-css="cityweb-stayConnected.min.css">
+<article class="content--cityweb-stayConnected" data-js="cityweb-stayConnected.min.js" data-css="cityweb-stayConnected.min.css">
   <p>
     <span class="nowrap">
       <img class="social-icon animated pulse delay-1s" data-src="facebook.png" alt="" />

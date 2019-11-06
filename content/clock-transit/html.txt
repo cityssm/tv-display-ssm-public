@@ -1,4 +1,4 @@
-<article data-js="clock-transit.min.js" data-css="clock-transit.min.css">
+<article class="content--clock-transit" data-js="clock-transit.min.js" data-css="clock-transit.min.css">
   <div>
     <p>
       The current time is<br />
